@@ -1,3 +1,11 @@
+# DEPRECATED
+
+**This repository is no longer used. Rootfs tarballs are now stored in
+https://git.launchpad.net/cloud-images/+oci/ubuntu-base (`dist-` branches) and
+PRs are submitted from [Ubuntu Cloud Images](https://launchpad.net/cloud-images)
+CI/CD. For information about Ubuntu OCI base images see
+<https://hub.docker.com/_/ubuntu>.**
+
 # tl;dr: `git clone --single-branch https://github.com/tianon/docker-brew-ubuntu-core.git`
 
 Please do not open pull requests to update images. We're super happy to get PRs
